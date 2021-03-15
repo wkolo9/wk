@@ -1,0 +1,104 @@
+.Project{
+    width: 30%;
+    display:inline-block;
+    overflow: auto;
+    margin-left: 1vh;
+    margin-top: 1vh; 
+    text-align:center;
+    border: 1px solid black;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #17191d;
+    border-radius: 15px;
+    opacity: 0.91;
+    position: relative;
+}
+.ProjectExtended{
+    display:inline-block;
+    margin: 1px;
+    margin-top: 40px;
+    text-align:center;
+    padding: 15px;
+    width: 70%;
+    height: 50%;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    background-color: #17191d;
+}
+.projectName{
+    margin-top: 0;
+    font-size:2vw;
+}
+.Underline{
+    background: rgb(2, 47, 172); 
+    width: 100%;
+    height: 5px;
+    margin-top: 0;
+}
+.projectText{
+    background-color: #e7e7e7;
+    height: 25vh;
+   overflow: visible;
+    padding: 5px;
+   margin-top: 15px;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   flex-direction: column;
+    font-weight:500 ;
+   
+}
+.projectTextIns{
+    font-size:  calc(1vw + 1vh) ;
+    color: black;
+    font-style: italic;
+    position: relative;
+}
+.projectTextInsZ{
+    font-size:  calc(0.5vw + 0.8vh) ;
+    color: black;
+    font-style: italic;
+    position: relative;
+}
+.projectTextInsZ span{
+    font-style: bold;
+    font-size:  calc(0.5vw + 0.6vh) ;
+    text-decoration: underline;
+}
+.TechRaport{
+    font-style: bold;
+    font-size:  calc(0.9vw + 0.9vh) ;
+    text-decoration: underline;
+}
+.TechImgContainer{
+    text-align:center;
+}
+.TechImg{
+    display: inline-block;
+    margin: 3px;
+    /* border:1px solid mediumaquamarine; */
+    height: auto;
+    width: calc(4vh + 4vh);
+    filter: grayscale(0%); 
+}
+
+.TechImgContainerExt{
+    /* border: 2px solid rgb(184, 243, 144); */
+    margin-top: 5vh;
+    
+}
+.TechImg:hover{ 
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+.GhAvailable{
+    font-size: calc(0.8vh + 0.5vw);
+    /* position: absolute;
+    bottom: 0;
+    text-align: center; */
+    position:absolute;
+    bottom:0;
+    left:50%;
+    margin-left: -22%;
+}

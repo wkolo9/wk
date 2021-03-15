@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/wk/static/css/main.a6ac46fa.chunk.css",
+    "main.js": "/wk/static/js/main.86cab69a.chunk.js",
+    "main.js.map": "/wk/static/js/main.86cab69a.chunk.js.map",
+    "runtime-main.js": "/wk/static/js/runtime-main.a376b6cf.js",
+    "runtime-main.js.map": "/wk/static/js/runtime-main.a376b6cf.js.map",
+    "static/js/2.a6a1aace.chunk.js": "/wk/static/js/2.a6a1aace.chunk.js",
+    "static/js/2.a6a1aace.chunk.js.map": "/wk/static/js/2.a6a1aace.chunk.js.map",
+    "static/js/3.d91855a5.chunk.js": "/wk/static/js/3.d91855a5.chunk.js",
+    "static/js/3.d91855a5.chunk.js.map": "/wk/static/js/3.d91855a5.chunk.js.map",
+    "index.html": "/wk/index.html",
+    "static/css/main.a6ac46fa.chunk.css.map": "/wk/static/css/main.a6ac46fa.chunk.css.map",
+    "static/js/2.a6a1aace.chunk.js.LICENSE.txt": "/wk/static/js/2.a6a1aace.chunk.js.LICENSE.txt",
+    "static/media/CV.89cf2a62.pdf": "/wk/static/media/CV.89cf2a62.pdf",
+    "static/media/arduino.cbfa02ee.png": "/wk/static/media/arduino.cbfa02ee.png",
+    "static/media/css.19c8605d.png": "/wk/static/media/css.19c8605d.png",
+    "static/media/docker.7160938e.png": "/wk/static/media/docker.7160938e.png",
+    "static/media/github.1e61d3b3.png": "/wk/static/media/github.1e61d3b3.png",
+    "static/media/js.f26f5431.png": "/wk/static/media/js.f26f5431.png",
+    "static/media/labview.ebfbc846.png": "/wk/static/media/labview.ebfbc846.png",
+    "static/media/logo.6ce24c58.svg": "/wk/static/media/logo.6ce24c58.svg",
+    "static/media/matlab.67cc003f.png": "/wk/static/media/matlab.67cc003f.png",
+    "static/media/mysql.4676ad98.png": "/wk/static/media/mysql.4676ad98.png",
+    "static/media/node.144cea57.png": "/wk/static/media/node.144cea57.png",
+    "static/media/note.f1df7657.png": "/wk/static/media/note.f1df7657.png",
+    "static/media/php.b460b247.png": "/wk/static/media/php.b460b247.png",
+    "static/media/python.f22d1fce.png": "/wk/static/media/python.f22d1fce.png",
+    "static/media/web.b699db4f.png": "/wk/static/media/web.b699db4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a376b6cf.js",
+    "static/js/2.a6a1aace.chunk.js",
+    "static/css/main.a6ac46fa.chunk.css",
+    "static/js/main.86cab69a.chunk.js"
+  ]
+}

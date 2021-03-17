@@ -4,9 +4,6 @@ import './Button.css';
 import {NavLink} from 'react-router-dom'
 
 const button = (props) =>{
-    let style = 'Button'
-     props.clicked ? style = 'ActiveButton' : style = 'Button'
-
     return(
     <Aux>
         

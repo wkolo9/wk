@@ -17,9 +17,9 @@ const me = (props) =>(
 
         <div className='surrouningDiv'><span style={{marginLeft:'3vh'}}>Who Am I?</span><Text/></div>
         <div className='breakDiv'><Logo/></div>
-        <div className='surrouningDiv'>Why this path?<Webdev/></div>
-        {/* <div className='breakDiv'><Logo/></div> */}
-        <div className='surrouningDiv'>My goal<Goal/></div>
+        <div className='surrouningDiv'>Why this path?<br></br><Webdev/></div>
+        <div className='breakDiv'></div>
+        <div className='surrouningDiv'>My goal<br></br><Goal/></div>
         
     </div>
     

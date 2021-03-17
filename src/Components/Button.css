@@ -1,22 +1,21 @@
 .Button{
+    width: auto;
+    display: inline-block;
     background-color: #282c34; 
     color: #afbbbe;
-    padding: 15px;
+    padding: calc(0.4vw + 0.7vh);
     margin: auto;
     border-radius: 5px;
     border: 2px solid black;
-    font-size: 25px;
+    font-size: calc(1.0vw + 1.2vh);
     border-bottom: 2px solid #282c34;
     cursor: pointer;
+    
 }
 .Button:hover{
     background-color: #61DBFB;
-    color:#282c34;
+    color:#000000;
 }
-.Button:focus{
-    background-color: #61DBFB;
-    color:#282c34;
-    /* text-shadow: 1px 1px 1px black; */
-}
+ 
 
 

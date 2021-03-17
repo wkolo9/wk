@@ -36,7 +36,8 @@ rollProjectHandler=()=>{
         }
         if(this.state.extends){
             projects=( <Aux>
-                <h1 className="Header">Click the project to roll!</h1>
+               <div className='BackButtonPlace'><button className='BackButton' onClick={this.rollProjectHandler}>Go back</button></div> 
+                <div className="HeaderEx">Click the project to roll!</div>
                 <ProjectExtended name={this.state.name} roll={this.rollProjectHandler}></ProjectExtended>
                 </Aux>)
         }

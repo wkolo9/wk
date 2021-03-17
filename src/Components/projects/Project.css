@@ -12,6 +12,7 @@
     border-radius: 15px;
     opacity: 0.91;
     position: relative;
+    cursor: pointer;
 }
 .ProjectExtended{
     display:inline-block;
@@ -24,6 +25,7 @@
     border: 2px solid #000000;
     border-radius: 15px;
     background-color: #17191d;
+    cursor: pointer;
 }
 .projectName{
     margin-top: 0;

@@ -7,7 +7,7 @@ const button = (props) =>{
     return(
     <Aux>
         
-        <div className={style}>
+        <div>
             {props.children}
         </div>
     </Aux>
